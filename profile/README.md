@@ -1,5 +1,5 @@
 # Our ⭐New⭐ Official Organization
-![](http://denhamrock.net/assets/studiodrmrckb.png)
+![](https://github.com/StudioDenhamrock/.github/blob/main/profile/studiodrmrckb.png)
 Please head to our [Official Organization](https://github.com/studiodenhamrck/)
 
 Thanks! 👋
